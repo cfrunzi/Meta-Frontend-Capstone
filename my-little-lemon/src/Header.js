@@ -1,7 +1,9 @@
+import React from "react";
+
 function Header(){
     return (
     <header>
-        <div>
+        <div className="header">
             <img alt="" src="logo.png"></img>
         </div>
     </header>
