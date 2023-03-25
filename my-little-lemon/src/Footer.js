@@ -1,7 +1,9 @@
 function Footer(){
     return (
     <footer>
-        <img alt="" src="favicon - Copy.ico"></img>
+        <div>
+            <img alt="" src="favicon - Copy.ico"></img>
+        </div>
     </footer>);
 }
 

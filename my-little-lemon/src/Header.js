@@ -1,7 +1,9 @@
 function Header(){
     return (
     <header>
-        <img alt="" src="logo.png"></img>
+        <div>
+            <img alt="" src="logo.png"></img>
+        </div>
     </header>
     );
 }

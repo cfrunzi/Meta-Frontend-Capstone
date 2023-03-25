@@ -1,7 +1,10 @@
+// functions for main page: specials, nav, booking page, call to action
 function Main(){
     return(
     <main>
-        <h2>Placeholder Text</h2>
+        <div className="main">
+            <h2>Placeholder Text</h2>
+        </div>
     </main>
     );
 }
