@@ -1,5 +1,12 @@
 function Nav(){
-    return (<nav></nav>);
+    return (
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/booking">Booking</a></li>
+        </ul>
+    </nav>
+    );
 }
 
 export default Nav;
